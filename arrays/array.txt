@@ -1,0 +1,13 @@
+array is list of elements of same type.
+placed in contiguous memory location
+
+operations in array:
+create
+input
+output
+update
+
+dataType arrayName[]=new dataType[size];
+eg - int marks[]= new int [50];
+int numbers[]= {1,2,3};
+String fruits[]= {"apple", "mango", "orange"}
