@@ -1,0 +1,7 @@
+method scope- khi bhi use kr skte h uss function ko
+like int s= a+b, iske neeche khi bhi s use kr skte h
+but s ko define krne se phle use nhi kr skte
+
+block scope- 2 curly braces k andar ko block khte h
+block me int s =45 kr diya
+but isko hum block ke bhr use nhi kr skte 

@@ -1,0 +1,11 @@
+java always calls by value.
+eg- 
+ek function bnaya swap ka
+phir neeche use call kiya
+jaise swap(a,b)
+phir agr a, b ko swap k neeche print krvaenge toh original values aaegi not swapped values 
+jitna bhi change hoga vo function ke andar he hoga
+ek copy bnti hai
+original value pr no impact
+
+call by reference me original value he change hoti h 

@@ -1,0 +1,18 @@
+returnType name(type param 1, type param 2){
+    //body
+    return statement;
+}
+
+eg- public static void calculateSum(int num1, int num2){
+    int sum= num1+num2;
+}
+or
+public static int calculateSum(int num1, int num2){ //parameters
+    int sum= num1+num2;
+    return sum;
+}
+public static void main(String args[]){
+    int a= 1; 
+    int b=2;
+    int sum= calculateSum(a,b); // arguments/ actual parameters
+}
