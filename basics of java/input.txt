@@ -1,0 +1,13 @@
+Scanner sc= new Scanner(System.in)
+
+next
+nextLine - pura parah he store krvana h.
+nextInt
+nextByte
+nextFloat
+nextDouble
+nextBoolean
+nextShort
+nextLong
+
+hr decimal value ko double le leta h. agr float krvana h code me toh f lgana h. eg- 3.14f

@@ -1,0 +1,10 @@
+two types:
+primitive - already exist
+non primitive - jinhe khudse bnana pdta h
+
+primitive - byte, short, char, boolean, int, long, float, double
+
+non primitive- string, array, class, object, interface
+
+Names of variables are called identifiers in Java. Identifier rule says, identifiers 
+can start with any alphabet or underscore (“_”) or dollar (“$”)

@@ -1,0 +1,4 @@
+byte - short - int - float - long - double
+eg- int a=25;
+float f=a; // implicit type conversion
+System.out.println(f); // 25.0

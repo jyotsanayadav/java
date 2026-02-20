@@ -1,0 +1,2 @@
+zabardasti conversion krna
+eg- int marks= (int)(99.99f)

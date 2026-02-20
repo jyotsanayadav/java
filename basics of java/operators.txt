@@ -1,0 +1,21 @@
+sum= a+b;
+a,b- operands
++ - operator
+
+types:
+arithmetic (binary +,-,*,/,%  unary ++,--)
+relational ==, !=, >, <, >=, <=
+logical &&, ||, !
+bitwise
+assignment =,+=, -=, *=, /=
+
+pre increment ++a phle value change phir value use
+int a= 10;
+int b= ++a;
+syso(a);
+syso(b);
+output- 11,11
+
+post increment a++ - isme outpur 11, 10
+phle value use phir change kyuki a ki purani value hogi b me phir a ki value change hogi
+ 
