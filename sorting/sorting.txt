@@ -1,0 +1,5 @@
+sorting- arrange in an order
+1. bubble
+2. Selection 
+3. insertion
+4. counting
